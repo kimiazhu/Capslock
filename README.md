@@ -233,7 +233,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `[` Left Bracket   | `(`     | Left Round Bracket `⇧9`  |
 | `]`  Right Bracket | `)`     | Right Round Bracket `⇧0` |
 | `;` Semicolon      | `:`     | Colon                    |
-| `'` Single Quote   | `=`     | Double Quote             |
+| `'` Single Quote   | `"`     | Double Quote             |
 | `⌘;` Semicolon     | `!`     | Exclamatio               |
 | `⌘'` Single Quote  | `=`     | EqualSign                |
 
