@@ -42,7 +42,7 @@
 
 ```bash
 # This Repo (open in safari)
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/Vonng/Capslock/master/mac/capslock.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/kimiazhu/Capslock/master/mac/capslock.json
 ```
 
 ```bash
@@ -101,6 +101,12 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `⌃K`    | `↑` UpArrow    | switch prev desktop               |
 | `⌃L`    | `→` RightArrow | switch next desktop        |
 
+
+### Vim
+| Origin | Maps to        | Comment                  |
+| ------ | -------------- | ------------------------ |
+| `w`    | `⌃w` Ctrl+w   | Ctrl + w                  |
+| `v`    | `⌃v` Ctrl+v   | Ctrl + v                  |
 
 
 ### Mousekey
@@ -226,9 +232,9 @@ karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fpqrs
 | `=` Equal          | `+`     | Plus                     |
 | `[` Left Bracket   | `(`     | Left Round Bracket `⇧9`  |
 | `]`  Right Bracket | `)`     | Right Round Bracket `⇧0` |
-| `;` Semicolon      | `!`     | Exclamation              |
-| `'` Single Quote   | `=`     | EqualSign                |
-| `⌘;` Semicolon     | `!`     | Colon                    |
+| `;` Semicolon      | `:`     | Colon                    |
+| `'` Single Quote   | `=`     | Double Quote             |
+| `⌘;` Semicolon     | `!`     | Exclamatio               |
 | `⌘'` Single Quote  | `=`     | EqualSign                |
 
 ### Misc

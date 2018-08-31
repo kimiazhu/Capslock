@@ -2198,7 +2198,6 @@
             "key_code": "semicolon",
             "modifiers": {
               "mandatory": [
-                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -2241,6 +2240,7 @@
             "key_code": "semicolon",
             "modifiers": {
               "mandatory": [
+                "left_command",
                 "right_command",
                 "right_control",
                 "right_shift",
@@ -2272,10 +2272,62 @@
           },
           "to": [
             {
-              "key_code": "equal_sign"
+              "key_code": "quote",
+              "modifiers": [
+                "left_shift"
+              ]
             }
           ],
           "type": "basic"
+        }
+      ]
+    },
+    {
+      "description": "Hyper Vim",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "w",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "w",
+              "modifiers": [
+                "left_control"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "v",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "v",
+              "modifiers": [
+                "left_control"
+              ]
+            }
+          ]
         }
       ]
     },
